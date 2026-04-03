@@ -68,7 +68,7 @@ Product Disco 是一个 Claude 插件，内置 **10 个专业 AI Agent** 接力�
 
 ## 分享方式
 
-把 `product-disco.plugin` 文件通过微信、飞书、邮件发给朋友，对方在 Claude 桌面端打开文件，点击接受就能直接使用。
+把 `product-disco.plugin` 文件通过飞书、邮件发，对方在 Claude 桌面端打开文件，点击接受就能直接使用。
 
 ---
 
